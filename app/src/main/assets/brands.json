@@ -1,0 +1,219 @@
+{
+    "brands": [{
+            "brand_name": "gionee",
+            "variants": [{
+					"variant_id":"gionee1",
+					"variant_count" : "0",
+                    "variant_name": "gionee1",
+                    "variant_price": "11999",
+					"variant_img_src":"https://previews.123rf.com/images/bobnevv/bobnevv1705/bobnevv170500058/78267080-black-smartphone-smart-phone-isolated-on-white-background-mobile-phone-with-blank-screen-vector-illu.jpg"
+                },
+                {
+					"variant_id":"gionee2",
+					"variant_count" : "0",
+                    "variant_name": "gionee2",
+                    "variant_price": "11999",
+					"variant_img_src":"https://previews.123rf.com/images/bobnevv/bobnevv1705/bobnevv170500058/78267080-black-smartphone-smart-phone-isolated-on-white-background-mobile-phone-with-blank-screen-vector-illu.jpg",
+					"variant_tag": ["color","size","ram"]
+                },
+                {
+					"variant_id":"gionee3",
+					"variant_count" : "0",
+                    "variant_name": "gionee3",
+                    "variant_price": "11999",
+					"variant_img_src":"https://previews.123rf.com/images/bobnevv/bobnevv1705/bobnevv170500058/78267080-black-smartphone-smart-phone-isolated-on-white-background-mobile-phone-with-blank-screen-vector-illu.jpg",
+					"variant_tag": ["color","size","ram"]
+                },
+                {
+					"variant_id":"gionee4",
+					"variant_count" : "0",
+                    "variant_name": "gionee4",
+                    "variant_price": "11999",
+					"variant_img_src":"https://previews.123rf.com/images/bobnevv/bobnevv1705/bobnevv170500058/78267080-black-smartphone-smart-phone-isolated-on-white-background-mobile-phone-with-blank-screen-vector-illu.jpg",
+					"variant_tag": ["color","size","ram"]
+                }
+            ]
+        },
+		{
+            "brand_name": "htc",
+            "variants": [{
+					"variant_id":"htc1",
+					"variant_count" : "0",
+                    "variant_name": "htc1",
+                    "variant_price": "11999",
+					"variant_img_src":"https://previews.123rf.com/images/bobnevv/bobnevv1705/bobnevv170500058/78267080-black-smartphone-smart-phone-isolated-on-white-background-mobile-phone-with-blank-screen-vector-illu.jpg"
+                },
+                {
+					"variant_id":"htc2",
+					"variant_count" : "0",
+                    "variant_name": "htc2",
+                    "variant_price": "11999",
+					"variant_img_src":"https://previews.123rf.com/images/bobnevv/bobnevv1705/bobnevv170500058/78267080-black-smartphone-smart-phone-isolated-on-white-background-mobile-phone-with-blank-screen-vector-illu.jpg",
+					"variant_tag": ["color","size","ram"]
+                },
+                {
+					"variant_id":"htc3",
+					"variant_count" : "0",
+                    "variant_name": "htc3",
+                    "variant_price": "11999",
+					"variant_img_src":"https://previews.123rf.com/images/bobnevv/bobnevv1705/bobnevv170500058/78267080-black-smartphone-smart-phone-isolated-on-white-background-mobile-phone-with-blank-screen-vector-illu.jpg",
+					"variant_tag": ["color","size","ram"]
+                },
+                {
+					"variant_id":"htc4",
+					"variant_count" : "0",
+                    "variant_name": "htc4",
+                    "variant_price": "11999",
+					"variant_img_src":"https://previews.123rf.com/images/bobnevv/bobnevv1705/bobnevv170500058/78267080-black-smartphone-smart-phone-isolated-on-white-background-mobile-phone-with-blank-screen-vector-illu.jpg",
+					"variant_tag": ["color","size","ram"]
+                }
+            ]
+        },
+		{
+            "brand_name": "lenovo",
+            "variants": [{
+					"variant_id":"lenovo1",
+					"variant_count" : "0",
+                    "variant_name": "lenovo1",
+                    "variant_price": "11999",
+					"variant_img_src":"https://previews.123rf.com/images/bobnevv/bobnevv1705/bobnevv170500058/78267080-black-smartphone-smart-phone-isolated-on-white-background-mobile-phone-with-blank-screen-vector-illu.jpg",
+					"variant_tag": ["color","size","ram"]
+                },
+                {
+					"variant_id":"lenovo2",
+					"variant_count" : "0",
+                    "variant_name": "lenovo2",
+                    "variant_price": "11999",
+					"variant_img_src":"https://previews.123rf.com/images/bobnevv/bobnevv1705/bobnevv170500058/78267080-black-smartphone-smart-phone-isolated-on-white-background-mobile-phone-with-blank-screen-vector-illu.jpg",
+					"variant_tag": ["color","size","ram"]
+                },
+                {
+					"variant_id":"lenovo3",
+					"variant_count" : "0",
+                    "variant_name": "lenovo3",
+                    "variant_price": "11999",
+					"variant_img_src":"https://previews.123rf.com/images/bobnevv/bobnevv1705/bobnevv170500058/78267080-black-smartphone-smart-phone-isolated-on-white-background-mobile-phone-with-blank-screen-vector-illu.jpg",
+					"variant_tag": ["color","size","ram"]
+                },
+                {
+					"variant_id":"lenovo4",
+					"variant_count" : "0",
+                    "variant_name": "lenovo4",
+                    "variant_price": "11999",
+					"variant_img_src":"https://previews.123rf.com/images/bobnevv/bobnevv1705/bobnevv170500058/78267080-black-smartphone-smart-phone-isolated-on-white-background-mobile-phone-with-blank-screen-vector-illu.jpg",
+					"variant_tag": ["color","size","ram"]
+                }
+            ]
+        },
+		{
+            "brand_name": "mi",
+            "variants": [{
+					"variant_id":"mi1",
+					"variant_count" : "0",
+                    "variant_name": "mi1",
+                    "variant_price": "11999",
+					"variant_img_src":"https://previews.123rf.com/images/bobnevv/bobnevv1705/bobnevv170500058/78267080-black-smartphone-smart-phone-isolated-on-white-background-mobile-phone-with-blank-screen-vector-illu.jpg",
+					"variant_tag": ["color","size","ram"]
+                },
+                {
+					"variant_id":"mi2",
+					"variant_count" : "0",
+                    "variant_name": "mi2",
+                    "variant_price": "11999",
+					"variant_img_src":"https://previews.123rf.com/images/bobnevv/bobnevv1705/bobnevv170500058/78267080-black-smartphone-smart-phone-isolated-on-white-background-mobile-phone-with-blank-screen-vector-illu.jpg",
+					"variant_tag": ["color","size","ram"]
+                },
+                {
+					"variant_id":"mi3",
+					"variant_count" : "0",
+                    "variant_name": "mi3",
+                    "variant_price": "11999",
+					"variant_img_src":"https://previews.123rf.com/images/bobnevv/bobnevv1705/bobnevv170500058/78267080-black-smartphone-smart-phone-isolated-on-white-background-mobile-phone-with-blank-screen-vector-illu.jpg",
+					"variant_tag": ["color","size","ram"]
+                },
+                {
+					"variant_id":"mi4",
+					"variant_count" : "0",
+                    "variant_name": "mi4",
+                    "variant_price": "11999",
+					"variant_img_src":"https://previews.123rf.com/images/bobnevv/bobnevv1705/bobnevv170500058/78267080-black-smartphone-smart-phone-isolated-on-white-background-mobile-phone-with-blank-screen-vector-illu.jpg",
+					"variant_tag": ["color","size","ram"]
+                }
+            ]
+        },
+		{
+            "brand_name": "samsung",
+            "variants": [{
+					"variant_id":"samsung1",
+					"variant_count" : "0",
+                    "variant_name": "samsung1",
+                    "variant_price": "11999",
+					"variant_img_src":"https://previews.123rf.com/images/bobnevv/bobnevv1705/bobnevv170500058/78267080-black-smartphone-smart-phone-isolated-on-white-background-mobile-phone-with-blank-screen-vector-illu.jpg",
+					"variant_tag": ["color","size","ram"]
+                },
+                {
+					"variant_id":"samsung2",
+					"variant_count" : "0",
+                    "variant_name": "samsung2",
+                    "variant_price": "11999",
+					"variant_img_src":"https://previews.123rf.com/images/bobnevv/bobnevv1705/bobnevv170500058/78267080-black-smartphone-smart-phone-isolated-on-white-background-mobile-phone-with-blank-screen-vector-illu.jpg",
+					"variant_tag": ["color","size","ram"]
+                },
+                {
+					"variant_id":"samsung3",
+					"variant_count" : "0",
+                    "variant_name": "samsung3",
+                    "variant_price": "11999",
+					"variant_img_src":"https://previews.123rf.com/images/bobnevv/bobnevv1705/bobnevv170500058/78267080-black-smartphone-smart-phone-isolated-on-white-background-mobile-phone-with-blank-screen-vector-illu.jpg",
+					"variant_tag": ["color","size","ram"]
+                },
+                {
+					"variant_id":"samsung4",
+					"variant_count" : "0",
+                    "variant_name": "samsung4",
+                    "variant_price": "11999",
+					"variant_img_src":"https://previews.123rf.com/images/bobnevv/bobnevv1705/bobnevv170500058/78267080-black-smartphone-smart-phone-isolated-on-white-background-mobile-phone-with-blank-screen-vector-illu.jpg",
+					"variant_tag": ["color","size","ram"]
+                }
+            ]
+        },
+		{
+            "brand_name": "vivo",
+            "variants": [{
+					"variant_id":"vivo1",
+					"variant_count" : "0",
+                    "variant_name": "vivo1",
+                    "variant_price": "11999",
+					"variant_img_src":"https://previews.123rf.com/images/bobnevv/bobnevv1705/bobnevv170500058/78267080-black-smartphone-smart-phone-isolated-on-white-background-mobile-phone-with-blank-screen-vector-illu.jpg",
+					"variant_tag": ["color","size","ram"]
+                },
+                {
+					"variant_id":"vivo2",
+					"variant_count" : "0",
+                    "variant_name": "vivo2",
+                    "variant_price": "11999",
+					"variant_img_src":"https://previews.123rf.com/images/bobnevv/bobnevv1705/bobnevv170500058/78267080-black-smartphone-smart-phone-isolated-on-white-background-mobile-phone-with-blank-screen-vector-illu.jpg",
+					"variant_tag": ["color","size","ram"]
+                },
+                {
+					"variant_id":"vivo3",
+					"variant_count" : "0",
+                    "variant_name": "vivo3",
+                    "variant_price": "11999",
+					"variant_img_src":"https://previews.123rf.com/images/bobnevv/bobnevv1705/bobnevv170500058/78267080-black-smartphone-smart-phone-isolated-on-white-background-mobile-phone-with-blank-screen-vector-illu.jpg",
+					"variant_tag": ["color","size","ram"]
+                },
+                {
+					"variant_id":"vivo4",
+					"variant_count" : "0",
+                    "variant_name": "vivo4",
+                    "variant_price": "11999",
+					"variant_img_src":"https://previews.123rf.com/images/bobnevv/bobnevv1705/bobnevv170500058/78267080-black-smartphone-smart-phone-isolated-on-white-background-mobile-phone-with-blank-screen-vector-illu.jpg",
+					"variant_tag": ["color","size","ram"]
+                }
+            ]
+        }
+		
+		
+    ]
+}

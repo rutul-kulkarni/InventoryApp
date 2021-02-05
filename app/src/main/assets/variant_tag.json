@@ -1,0 +1,22 @@
+{
+  "variant_tags": {
+    "size": [
+      "4' inch",
+      "5' inch",
+      "6' inch",
+      "7' inch"
+    ],
+    "color": [
+      "blue",
+      "black",
+      "silver",
+      "red"
+    ],
+    "ram": [
+      "2 Gb",
+      "3 Gb",
+      "4 Gb",
+      "6 Gb"
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/parent_relative_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    >
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/brand_rec_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/parent_relative_layout"
+        tools:ignore="NotSibling" />
+
+    <FrameLayout
+        android:id="@+id/placeholder1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/brand_rec_view"
+        android:layout_above="@id/cart_btn"
+        tools:ignore="NotSibling">
+
+    </FrameLayout>
+<!--    <FrameLayout-->
+<!--        android:id="@+id/placeholder2"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_below="@+id/brand_rec_view"-->
+<!--        android:layout_above="@id/cart_btn"-->
+<!--        tools:ignore="NotSibling">-->
+
+<!--    </FrameLayout>-->
+    <RelativeLayout
+        android:id="@+id/inner_relative_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="10dp">
+
+        <Button
+            android:id="@+id/cart_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Cart"
+            android:textStyle="bold"
+            android:textAllCaps="false"/>
+    </RelativeLayout>
+
+
+
+
+</RelativeLayout>

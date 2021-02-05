@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:cardElevation="8dp"
+        app:cardCornerRadius="20dp"
+        android:layout_margin="5dp"
+        app:cardBackgroundColor="@color/white"
+        app:cardMaxElevation="10dp"
+        app:cardPreventCornerOverlap="true"
+        >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:src="@drawable/defaultlogo"
+                android:id="@+id/brand_img_view"
+                android:layout_gravity="center_horizontal"/>
+            <TextView
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:id="@+id/brand_name_txt"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:textSize="15dp"
+                android:text="Brand Name"
+                android:gravity="center_horizontal"/>
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>
